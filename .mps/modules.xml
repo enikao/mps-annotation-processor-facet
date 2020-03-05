@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/solutions/de.nikostotz.mps.annotationprocessor.test/de.nikostotz.mps.annotationprocessor.test.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/de.nikostotz.mps.annotationprocessorfacet/de.nikostotz.mps.annotationprocessorfacet.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
